@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "APNccGsiqaXzbYL5wy0ZNRqmxMao/+vuiElsaxLNzKSWK7iT6mGdEqOqBY95R4SGGJKT2tQKhJfb/dyxH/iDPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\efcaw\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\NoAutoAttack\\NoAutoAttack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efcaw\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

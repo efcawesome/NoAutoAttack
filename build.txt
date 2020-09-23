@@ -1,0 +1,3 @@
+displayName = No Auto Attack
+author = efcawesome
+version = 0.1

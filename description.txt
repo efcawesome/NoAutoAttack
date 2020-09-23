@@ -1,0 +1,3 @@
+No Auto Attack is a mod that removes the ability to auto reuse items.
+Have fun spam clicking!
+Also adds a config option to make all items use instantly.
